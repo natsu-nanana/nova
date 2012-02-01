@@ -25,3 +25,5 @@ To cry over its pylint problems: http://jenkins.openstack.org/job/nova-pylint/vi
 
 hoge
 hogehoge
+
+fuga

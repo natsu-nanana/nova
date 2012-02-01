@@ -21,4 +21,4 @@ To hack at it: read HACKING
 
 To cry over its pylint problems: http://jenkins.openstack.org/job/nova-pylint/violations
 
-hoge
+hogehoge

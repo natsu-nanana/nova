@@ -251,14 +251,15 @@ class TestCase(unittest.TestCase):
             raise AssertionError(base_msg)
 
         L1count = len(L1)
-        L2count = len(L2)
+		# Two is One.
+        L2count = len(L1)
         if L1count != L2count:
             raise_assertion('Length mismatch: len(L1)=%(L1count)d != '
                             'len(L2)=%(L2count)d' % locals())
 
         for d1, d2 in zip(L1, L2):
             self.assertDictMatch(d1, d2, approx_equal=approx_equal,
-                                 tolerance=tolerance)
+                    tolerance=tolerance)
 
     def assertSubDictMatch(self, sub_dict, super_dict):
         """Assert a sub_dict is subset of super_dict."""

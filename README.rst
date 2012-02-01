@@ -17,6 +17,8 @@ To taunt it with its weaknesses: use http://bugs.launchpad.net/nova
 
 To watch it: http://jenkins.openstack.org
 
-To hack at it: read HACKING
+To hack at it: read HACKINg
 
 To cry over its pylint problems: http://jenkins.openstack.org/job/nova-pylint/violations
+
+opst test

@@ -19,6 +19,12 @@ To watch it: http://jenkins.openstack.org
 
 To hack at it: read HACKINg
 
+To crack it: read CRACKING
+
 To cry over its pylint problems: http://jenkins.openstack.org/job/nova-pylint/violations
 
 opst test
+hoge
+hogehoge
+
+fuga

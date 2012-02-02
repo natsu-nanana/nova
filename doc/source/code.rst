@@ -91,3 +91,4 @@ Generating source/api/nova..virt.xenapi.rst
 Generating source/api/nova..volume.driver.rst
 Generating source/api/nova..volume.manager.rst
 Generating source/api/nova..wsgi.rst
+Generating source/api/nova..wsgi.rst
